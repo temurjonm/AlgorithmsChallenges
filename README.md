@@ -1,2 +1,3 @@
 # AlgorithmsChallenges
-Javascript/Typescript Algorithm
+
+Javascript/Typescript/Python Algorithm
